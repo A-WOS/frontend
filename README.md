@@ -1,4 +1,4 @@
-# frontend
+# frontend - Vue & Vuetify Study
 
 ## Project setup
 ```
